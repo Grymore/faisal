@@ -84,6 +84,7 @@ section {
     min-height: 600px;
 }
 
+
 .lokasi {
   text-align: left;
   margin-top: 25px;
@@ -138,7 +139,7 @@ footer  {
 }
 
 .documents {
-    min-height: 800px;
+    min-height: 1100px;
     background-color: #eee;
 }
 
